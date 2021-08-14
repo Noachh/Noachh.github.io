@@ -11,14 +11,13 @@
         "title": "HACKED",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
-            { "title": "Hacked 2", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "RickRoll", 
+        "title": "rickroll.dlc",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "Rick Roll", "action": [75,0,4,4] }
         ]
     },
     {
