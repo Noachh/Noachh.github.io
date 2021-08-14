@@ -1,9 +1,9 @@
 [
     { 
-        "file": "Sabaton.dlc", 
-        "title": "SABATON",
+        "file": "rickroll.dlc", 
+        "title": "Rickroll",
         "buttons": [
-            { "title": "Sabaton", "action": [75,0,4,4] }
+            { "title": "Logo", "action": [75,0,4,4] }
         ]
     },
     { 
@@ -11,13 +11,14 @@
         "title": "HACKED",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
+            { "title": "Hacked 2", "action": [75,0,4,4] }
         ]
     },
     {
-        "file": "RickRoll", 
-        "title": "rickroll.dlc",
+        "file": "noimg2.dlc", 
+        "title": "Audio only",
         "buttons": [
-            { "title": "Rick Roll", "action": [75,0,4,4] }
+            { "title": "Audio test ", "action": [75,0,4,4] }
         ]
     },
     {
