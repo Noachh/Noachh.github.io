@@ -1,9 +1,9 @@
 [
     { 
-        "file": "rickroll.dlc", 
-        "title": "Rickroll",
+        "file": "tu003410.dlc", 
+        "title": "tu003410.dlc",
         "buttons": [
-            { "title": "rickroll", "action": [75,0,4,4] }
+            { "title": "TEST", "action": [75,0,2,6] }
         ]
     },
     { 
