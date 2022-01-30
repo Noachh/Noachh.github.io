@@ -1,9 +1,9 @@
 [
     { 
-        "file": "tu003410.dlc", 
-        "title": "tu003410.dlc",
+        "file": "evilseed.dlc", 
+        "title": "evilseed.dlc",
         "buttons": [
-            { "title": "TEST", "action": [75,0,2,6] }
+            { "title": "EvilSeed", "action": [75,0,0,1] }
         ]
     },
     { 
