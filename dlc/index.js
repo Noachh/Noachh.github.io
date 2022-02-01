@@ -1,9 +1,9 @@
 [
     { 
-        "file": "evilseed.dlc", 
-        "title": "evilseed.dlc",
+        "file": "stepb.dlc", 
+        "title": "stepb.dlc",
         "buttons": [
-            { "title": "EvilSeed", "action": [75,0,0,1] }
+            { "title": "Stepb", "action": [75,0,0,5] }
         ]
     },
     { 
