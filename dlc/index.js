@@ -1,7 +1,7 @@
 [
     { 
-        "file": "russian.dlc", 
-        "title": "Russian",
+        "file": "anthem.dlc", 
+        "title": "Anthem",
         "buttons": [
             { "title": "Russian Anthem", "action": [75,0,0,2] }
         ]
