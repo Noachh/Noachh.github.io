@@ -1,9 +1,9 @@
 [
     { 
-        "file": "russian.dlc", 
-        "title": "Russian",
+        "file": "EvilSeed.dlc", 
+        "title": "EvilSeed",
         "buttons": [
-            { "title": "Russian Anthem", "action": [75,0,0,2] }
+            { "title": "Please work", "action": [75,0,0,2] }
         ]
     },
     { 
