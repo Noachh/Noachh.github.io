@@ -16,7 +16,7 @@
     },
     {
         "file": "spinme.dlc", 
-        "title": "Spin me",
+        "title": "SpinMe",
         "buttons": [
             { "title": "You Spin Me Round", "action": [75,0,0,3] }
         ]
