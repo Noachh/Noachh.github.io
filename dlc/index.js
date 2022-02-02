@@ -30,7 +30,7 @@
 },
         { 
         "file": "devil.dlc", 
-        "title": "Devi",
+        "title": "Devil",
         "buttons": [
             { "title": "Devil Dogs", "action": [75,0,0,4] }
         ]
