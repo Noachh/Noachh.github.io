@@ -1,9 +1,9 @@
 [
     { 
-        "file": "stepb.dlc", 
-        "title": "stepb.dlc",
+        "file": "russian.dlc", 
+        "title": "Russian",
         "buttons": [
-            { "title": "Stepb", "action": [75,0,0,5] }
+            { "title": "Russian Anthem", "action": [75,0,0,2] }
         ]
     },
     { 
