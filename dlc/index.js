@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "spinme.dlc", 
+        "title": "Spin me",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "You Spin Me Round", "action": [75,0,0,3] }
         ]
     },
     {
