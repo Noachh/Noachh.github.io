@@ -22,6 +22,27 @@
         ]
     },
     {
+        "file": "ghost.dlc", 
+        "title": "Ghost",
+        "buttons": [
+            { "title": "Ghost Division ", "action": [75,0,0,6] }
+        ]
+},
+        { 
+        "file": "devil.dlc", 
+        "title": "Devi",
+        "buttons": [
+            { "title": "Devil Dogs", "action": [75,0,0,4] }
+        ]
+    },
+        { 
+        "file": "stepbro.dlc", 
+        "title": "StepBro",
+        "buttons": [
+            { "title": "What Are you Doing", "action": [75,0,0,5] }
+        ]
+    },
+    {
         "file": "chilli.dlc", 
         "title": "Chilli",
         "buttons": [
