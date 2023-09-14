@@ -1,9 +1,9 @@
 [
     { 
-        "file": "homo.dlc", 
-        "title": "Homophobic",
+        "file": "anthem.dlc", 
+        "title": "anthem",
         "buttons": [
-            { "title": "Homophobic", "action": [75,0,0,3] }
+            { "title": "anthem", "action": [75,0,0,3] }
         ]
     },
     { 
@@ -14,17 +14,18 @@
             { "title": "Hacked 2", "action": [75,0,4,4] }
         ]
     },
-    {
-        "file": "spinme.dlc", 
-        "title": "SpinMe",
+    { 
+        "file": "homo.dlc", 
+        "title": "Homophobic",
         "buttons": [
-            { "title": "You Spin Me Round", "action": [75,0,0,3] }
+            { "title": "Homophobic", "action": [75,0,0,3] }
         ]
     },
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+    {
+        "file": "spinme.dlc", 
+        "title": "Spin Me",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "Spin Me ", "action": [75,0,4,4] }
         ]
     }
 ]
