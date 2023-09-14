@@ -1,9 +1,9 @@
 [
     { 
         "file": "anthem.dlc", 
-        "title": "anthem",
-        "buttons": [
-            { "title": "anthem", "action": [75,0,0,3] }
+        "title": "Anthem",
+        "buttons": [j
+            { "title": "Anthem", "action": [75,0,4,4] }
         ]
     },
     { 
@@ -14,18 +14,18 @@
             { "title": "Hacked 2", "action": [75,0,4,4] }
         ]
     },
-    { 
+    {
         "file": "homo.dlc", 
-        "title": "Homophobic",
+        "title": "homophob",
         "buttons": [
-            { "title": "Homophobic", "action": [75,0,0,3] }
+            { "title": "homophob", "action": [75,0,0,3] }
         ]
     },
     {
-        "file": "spinme.dlc", 
-        "title": "Spin Me",
+        "file": "chilli.dlc", 
+        "title": "Chilli",
         "buttons": [
-            { "title": "Spin Me ", "action": [75,0,4,4] }
+            { "title": "Chilli ", "action": [75,0,4,4] }
         ]
     }
 ]
