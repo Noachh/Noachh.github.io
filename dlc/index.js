@@ -1,9 +1,9 @@
 [
     { 
-        "file": "anthem.dlc", 
-        "title": "Anthem",
+        "file": "homo.dlc", 
+        "title": "Homophobic",
         "buttons": [
-            { "title": "Russian Anthem", "action": [75,0,0,2] }
+            { "title": "Homophobic", "action": [75,0,0,3] }
         ]
     },
     { 
@@ -21,28 +21,6 @@
             { "title": "You Spin Me Round", "action": [75,0,0,3] }
         ]
     },
-    {
-        "file": "ghost.dlc", 
-        "title": "Ghost",
-        "buttons": [
-            { "title": "Ghost Division ", "action": [75,0,0,6] }
-        ]
-},
-        { 
-        "file": "devil.dlc", 
-        "title": "Devil",
-        "buttons": [
-            { "title": "Devil Dogs", "action": [75,0,0,4] }
-        ]
-    },
-        { 
-        "file": "stepbro.dlc", 
-        "title": "StepBro",
-        "buttons": [
-            { "title": "What Are you Doing", "action": [75,0,0,5] }
-        ]
-    },
-    {
         "file": "chilli.dlc", 
         "title": "Chilli",
         "buttons": [
