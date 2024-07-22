@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "homo.dlc", 
-        "title": "homophob",
+        "file": "speech1.dlc", 
+        "title": "German",
         "buttons": [
-            { "title": "homophob", "action": [75,0,0,3] }
+            { "title": "german", "action": [75,0,0,3] }
         ]
     },
     {
